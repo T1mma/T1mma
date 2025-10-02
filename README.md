@@ -18,6 +18,8 @@ Hi there! I'm Timur <3
 My tech stack:
 Python; JavaScript; C#; HTML; CSS;
 
+Work from 5p.m to 10p.m UTC+3
+Bcs study in college
 </pre>
 
 </div>
