@@ -8,5 +8,5 @@
          ╚═╝    ╚═╝╚═╝     ╚═╝╚═╝  ╚═╝
    </pre>
 
-   <h1 aling="center">Hi</h1>
+   <h1>Hi</h1>
 </div>
