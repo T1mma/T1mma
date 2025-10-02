@@ -23,6 +23,8 @@ Bcs study in college
 
 Usualy kind and positive guy
 If work - always try hard 
+
+never trust.
 </pre>
 
 </div>
