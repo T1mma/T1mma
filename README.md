@@ -21,7 +21,7 @@ Python; JavaScript; C#; HTML; CSS;
 Work from 5p.m to 10p.m UTC+3
 Bcs study in college
 
-Usualy kind and positive 
+Usualy kind and positive guy
 If I work - always try hard 
 </pre>
 
