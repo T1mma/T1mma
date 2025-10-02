@@ -14,10 +14,10 @@
 
 <pre style="color: #00ff00; background-color: #000000; padding: 10px; border-radius: 5px; font-family: 'Courier New', monospace;">
 Hi there! I'm Timur <3
+   
 My tech stack:
 Python; JavaScript; C#; HTML; CSS;
 
-   
 </pre>
 
 </div>
