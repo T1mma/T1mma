@@ -19,12 +19,7 @@ My tech stack:
 Python; JavaScript; C#; HTML; CSS; Roblox Studio
 
 Work from 5p.m to 10p.m UTC+3
-Bcs study in college
 
-Usualy kind and positive guy
-If work - always try hard 
-
-never trust.
 </pre>
 
 </div>
