@@ -14,6 +14,8 @@
 
 <pre style="color: #00ff00; background-color: #000000; padding: 10px; border-radius: 5px; font-family: 'Courier New', monospace;">
 Hi there! I'm Timur <3
+Front-end developer from Russia
+Sometimes work in Unity, aslo tries pixel art
    
 My tech stack:
 Python; JavaScript; C#; HTML; CSS; Roblox Studio
