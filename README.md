@@ -13,15 +13,14 @@
 <p style="color: #00ff00; font-weight: bold;">Front-end Developer</p>
 
 <pre style="color: #00ff00; background-color: #000000; padding: 10px; border-radius: 5px; font-family: 'Courier New', monospace;">
-Hi there! I'm Timur <3
-Front-end developer from Russia
-Sometimes work in Unity, aslo tries pixel art
-   
+Hi there! I'm Timur ❤️
+
+I'm a Front-end Developer from Russia. I also work with Unity and enjoy creating pixel art.
+
 My tech stack:
-Python; JavaScript; C#; HTML; CSS; Roblox Studio
+Python, JavaScript, C#, HTML, CSS, and Roblox Studio.
 
-Work from 5p.m to 10p.m UTC+3
-
+I'm usually available from 5 p.m. to 10 p.m. UTC+3.
 </pre>
 
 </div>
